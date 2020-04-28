@@ -1,2 +1,2 @@
 # key_word-extract
-To extract words from the excel files
+Using TF-IDF algorithm to realize the output of the key_words
